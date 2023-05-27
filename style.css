@@ -22,7 +22,6 @@ body {
   content: "";
   bottom: 0;
   right: 12px;
-  width: 67px;
   height: 2px;
   background-color: hotpink;
 }
